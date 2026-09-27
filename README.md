@@ -1,4 +1,4 @@
-# RTGI-Garry-s-MOD.-
+# GI MOD
 
 Rewriting Garry's Mod from scratch on the UBGE engine for raytraced global illumination.
 Making a classic game look stunning without impacting its atmosphere.
