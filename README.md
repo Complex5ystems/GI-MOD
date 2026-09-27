@@ -7,7 +7,6 @@ Making a classic game look stunning without impacting its atmosphere.
 
 https://youtu.be/ScAeCwmZ5xY
 
-
 ## GALLERY
 <p align="left">
 <img width="49%" height="410" alt="Screenshot 2026-09-26 at 18 37 34" src="https://github.com/user-attachments/assets/039f2593-d204-4c32-8d84-628f9fecfdc1" />
